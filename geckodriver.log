@@ -1,0 +1,428 @@
+1605005360612	geckodriver	INFO	Listening on 127.0.0.1:37675
+1605005361579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaaBB8k"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605005386005	Marionette	INFO	Listening on port 37625
+1605005386114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+1605005538495	geckodriver	INFO	Listening on 127.0.0.1:44807
+1605005539539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile58AGsL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605005556220	Marionette	INFO	Listening on port 39975
+1605005556321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+1605006000108	geckodriver	INFO	Listening on 127.0.0.1:47421
+1605006001020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG1Jt4Y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605006021016	Marionette	INFO	Listening on port 38493
+1605006021117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+1605006098102	geckodriver	INFO	Listening on 127.0.0.1:45709
+1605006098196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefoIhGI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605006113482	Marionette	INFO	Listening on port 36993
+1605006113566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+1605006164564	geckodriver	INFO	Listening on 127.0.0.1:41203
+1605006164569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilergA0Jr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605006177904	Marionette	INFO	Listening on port 33703
+1605006177991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605006420290	geckodriver	INFO	Listening on 127.0.0.1:52323
+1605006421307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehjaSSZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605006440506	Marionette	INFO	Listening on port 42551
+1605006440615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605006616620	geckodriver	INFO	Listening on 127.0.0.1:55479
+1605006616731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOVcKN8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605006634603	Marionette	INFO	Listening on port 40713
+1605006634712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605006994588	geckodriver	INFO	Listening on 127.0.0.1:34423
+1605006995590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevWWYsh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605007011535	Marionette	INFO	Listening on port 44525
+1605007011671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+1605007115307	geckodriver	INFO	Listening on 127.0.0.1:38947
+1605007116187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFKJhUi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605007137236	Marionette	INFO	Listening on port 36171
+1605007137304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1242: TypeError: mainPanelView is undefined
+1605007405385	geckodriver	INFO	Listening on 127.0.0.1:42047
+1605007406443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee5tXvG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605007431072	Marionette	INFO	Listening on port 40713
+1605007431133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605007671047	geckodriver	INFO	Listening on 127.0.0.1:35917
+1605007672050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAHQOO8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605007689939	Marionette	INFO	Listening on port 46307
+1605007690011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605008599723	geckodriver	INFO	Listening on 127.0.0.1:59611
+1605008600757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5K64oA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605008620185	Marionette	INFO	Listening on port 38683
+1605008620232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605008847598	geckodriver	INFO	Listening on 127.0.0.1:42165
+1605008848630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQzCv1I"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605008867216	Marionette	INFO	Listening on port 45509
+1605008867545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605008926888	geckodriver	INFO	Listening on 127.0.0.1:43025
+1605008927891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTg65f4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605008946043	Marionette	INFO	Listening on port 36383
+1605008946135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605008966427	Marionette	INFO	Stopped listening on port 36383
+1605009331372	geckodriver	INFO	Listening on 127.0.0.1:32785
+1605009332459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaMzwpR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605009348790	Marionette	INFO	Listening on port 45503
+1605009348915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605009377420	Marionette	INFO	Stopped listening on port 45503
+1605009429067	geckodriver	INFO	Listening on 127.0.0.1:48375
+1605009430067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo3DiVG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605009447687	Marionette	INFO	Listening on port 45513
+1605009447727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605009469436	Marionette	INFO	Stopped listening on port 45513
+1605009552014	geckodriver	INFO	Listening on 127.0.0.1:45395
+1605009553007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevUiqpE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605009569693	Marionette	INFO	Listening on port 40597
+1605009569717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605009591596	Marionette	INFO	Stopped listening on port 40597
+1605010214006	geckodriver	INFO	Listening on 127.0.0.1:45125
+1605010215031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAwrcw0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605010231545	Marionette	INFO	Listening on port 43175
+1605010231610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+1605010238397	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605010708656	geckodriver	INFO	Listening on 127.0.0.1:37593
+1605010709805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehO7A8f"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605010728719	Marionette	INFO	Listening on port 40431
+1605010728816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605010749245	Marionette	INFO	Stopped listening on port 40431
+1605011043409	geckodriver	INFO	Listening on 127.0.0.1:37913
+1605011044472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepBy5W2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605011067832	Marionette	INFO	Listening on port 38063
+1605011067904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605011088640	Marionette	INFO	Stopped listening on port 38063
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605011118367	geckodriver	INFO	Listening on 127.0.0.1:33651
+1605011119408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFr3bp4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605011136417	Marionette	INFO	Listening on port 35105
+1605011136707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605011159246	Marionette	INFO	Stopped listening on port 35105
+JavaScript error: https://internet-banking.dbs.com.sg/IB/js/71d06aac4e562e3a2278bf493855202cacdacaa2/satelliteLib-e1e8c61fc2280cc6fb41b6644be1ca2dfdcf675d.js?version=225, line 11: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605011262832	geckodriver	INFO	Listening on 127.0.0.1:38755
+1605011263867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLlasPN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605011283309	Marionette	INFO	Listening on port 35437
+1605011283438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605011305375	Marionette	INFO	Stopped listening on port 35437
+1605011494752	geckodriver	INFO	Listening on 127.0.0.1:57777
+1605011495781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuqYlHW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605011515722	Marionette	INFO	Listening on port 42905
+1605011515777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605015213056	geckodriver	INFO	Listening on 127.0.0.1:42107
+1605015213840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9mjXsd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605015241030	Marionette	INFO	Listening on port 35679
+1605015241105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+[Child 9513, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /build/firefox-jw5aie/firefox-80.0.1+build1/ipc/chromium/src/base/shared_memory_posix.cc, line 189
+[Child 9513, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /build/firefox-jw5aie/firefox-80.0.1+build1/ipc/chromium/src/base/shared_memory_posix.cc, line 189
+[GFX1-]: Failed buffer for 20, 179, 989, 1511
+[Child 9513, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /build/firefox-jw5aie/firefox-80.0.1+build1/ipc/chromium/src/base/shared_memory_posix.cc, line 189
+[GFX1-]: Failed buffer for 20, 179, 989, 1603
+[Child 9513, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /build/firefox-jw5aie/firefox-80.0.1+build1/ipc/chromium/src/base/shared_memory_posix.cc, line 189
+[GFX1-]: Failed buffer for 20, 179, 989, 1603
+[Child 9513, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /build/firefox-jw5aie/firefox-80.0.1+build1/ipc/chromium/src/base/shared_memory_posix.cc, line 189
+[GFX1-]: Failed buffer for 20, 179, 989, 1603
+1605015596286	geckodriver	INFO	Listening on 127.0.0.1:57021
+1605015597228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0UkcVO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605015615830	Marionette	INFO	Listening on port 36109
+1605015615897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605016048466	geckodriver	INFO	Listening on 127.0.0.1:58037
+1605016049346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLfYzfn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605016064443	Marionette	INFO	Listening on port 42393
+1605016064515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605017876828	geckodriver	INFO	Listening on 127.0.0.1:54167
+1605017877839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexCVF4l"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605017899815	Marionette	INFO	Listening on port 38849
+1605017899939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605018047703	geckodriver	INFO	Listening on 127.0.0.1:54525
+1605018048723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Alcy5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605018072140	Marionette	INFO	Listening on port 39699
+1605018072234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605018241472	geckodriver	INFO	Listening on 127.0.0.1:46835
+1605018242442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDOPNE3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605018270645	Marionette	INFO	Listening on port 37007
+1605018270889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605018657110	geckodriver	INFO	Listening on 127.0.0.1:60653
+1605018658025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaqY95F"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605018682641	Marionette	INFO	Listening on port 35275
+1605018682836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605018906692	geckodriver	INFO	Listening on 127.0.0.1:37665
+1605018907726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAfMcgq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605018933767	Marionette	INFO	Listening on port 33983
+1605018933841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605019176458	geckodriver	INFO	Listening on 127.0.0.1:39719
+1605019177494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMlHBIo"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605019199641	Marionette	INFO	Listening on port 45945
+1605019199738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605019439196	geckodriver	INFO	Listening on 127.0.0.1:45821
+1605019440113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5nRlHu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605019461172	Marionette	INFO	Listening on port 46637
+1605019461197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605019623866	geckodriver	INFO	Listening on 127.0.0.1:39703
+1605019624813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJxHeSM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605019645369	Marionette	INFO	Listening on port 41717
+1605019645400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605019915503	geckodriver	INFO	Listening on 127.0.0.1:33679
+1605019916547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7h9Q7q"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605019935626	Marionette	INFO	Listening on port 36457
+1605019935669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605019993714	geckodriver	INFO	Listening on 127.0.0.1:49283
+1605019993823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ZtOOM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605020014897	Marionette	INFO	Listening on port 38191
+1605020014989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605020519474	geckodriver	INFO	Listening on 127.0.0.1:33717
+1605020520346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCnkASp"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605020549238	Marionette	INFO	Listening on port 44435
+1605020549331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605020648203	geckodriver	INFO	Listening on 127.0.0.1:52449
+1605020649280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejNrrOL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605020676451	Marionette	INFO	Listening on port 37585
+1605020676569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605020744150	geckodriver	INFO	Listening on 127.0.0.1:45683
+1605020745212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0TPHTp"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605020769673	Marionette	INFO	Listening on port 34639
+1605020769744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+JavaScript error: https://internet-banking.dbs.com.sg/IB/Welcome, line 187: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1605020805307	Marionette	INFO	Stopped listening on port 34639
+1610254624423	geckodriver	INFO	Listening on 127.0.0.1:47333
+1610254625423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejr6YVb"
+Starting X
+....5.. 4.. 3.. 2.. 1.. console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610254641889	Marionette	INFO	Listening on port 38679
+1610254642189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+1610254650738	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1610254667522	Marionette	INFO	Stopped listening on port 38679
+1610254741661	geckodriver	INFO	Listening on 127.0.0.1:55681
+1610254742662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegkf02c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610254752672	Marionette	INFO	Listening on port 36395
+1610254752990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+1610254760348	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1610254777533	Marionette	INFO	Stopped listening on port 36395
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610258033907	geckodriver	INFO	Listening on 127.0.0.1:57907
+1610258033936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePWMpZu"
+Starting X
+.....5.. 4.. 3.. 2.. 1.. console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610258066478	Marionette	INFO	Listening on port 38451
+1610258066753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+1610258075439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1610258094076	Marionette	INFO	Stopped listening on port 38451
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610258111332	geckodriver	INFO	Listening on 127.0.0.1:58645
+1610258111342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3osujv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610258121590	Marionette	INFO	Listening on port 43079
+1610258121920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+1610258130183	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1610258148669	Marionette	INFO	Stopped listening on port 43079
+1610258277372	geckodriver	INFO	Listening on 127.0.0.1:38977
+1610258277404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegaVlZ3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610258287964	Marionette	INFO	Listening on port 40001
+1610258288229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+1610258296152	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1610258296153	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js, line 70: unreachable code after return statement
+1610258314144	Marionette	INFO	Stopped listening on port 40001
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610258471460	geckodriver	INFO	Listening on 127.0.0.1:42707
+1610258472479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGD7WHh"
+Starting X
+.....5.. 4.. 3.. 2.. 1.. console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610258493933	Marionette	INFO	Listening on port 34783
+1610258494104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+1610258502572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610258704512	geckodriver	INFO	Listening on 127.0.0.1:60667
+1610258704546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTgaOoD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610258715480	Marionette	INFO	Listening on port 33989
+1610258715598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://internet-banking.dbs.com.sg/IB/dsss/js/EncryptionApplet.js?version=100, line 70: unreachable code after return statement
+1610258741801	Marionette	INFO	Stopped listening on port 33989
