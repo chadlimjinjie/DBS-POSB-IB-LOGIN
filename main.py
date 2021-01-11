@@ -5,6 +5,7 @@ DBS/POSB IB login on Firefox using Selenium written in Python to retrieve bank a
 I DO NOT ENDORSE ANY MISUSE OF MY WORK.
 '''
 
+from getpass import getpass
 from selenium import webdriver
 
 userid_field = '//*[@id="UID"]'
@@ -12,7 +13,7 @@ pin_field = '//*[@id="PIN"]'
 login_btn = '/html/body/form[1]/div/div[7]/button[1]'
 
 user_id = input('User ID: ')
-pin = input('PIN: ')
+pin = getpass("PIN: ")
 
 firefox = webdriver.Firefox()
 
